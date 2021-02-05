@@ -1,0 +1,16 @@
+{
+  "name": "secrets",
+  "version": "1.0.0",
+  "description": "mataining app secrets",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gowtham",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.11.14",
+    "mongoose-encryption": "^2.0.3"
+  }
+}
